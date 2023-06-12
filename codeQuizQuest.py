@@ -32,3 +32,5 @@ for question, correct_answer in QUESTIONS:
         print(myvar)
     if myvar == 4:
         QUESTIONS.extend(QUESTIONSTWO)
+        
+        #notes
